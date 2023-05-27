@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    font-family: 'Outfit';
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px;
+}
+
+.navigation-item {
+    margin: 0 65px;
+    font-size: 14px;
+}
+.logo-content{
+
+font-style: normal;
+font-weight: 400;
+font-size: 29px;
+}
+
+
+.navigation-menu{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
+.spend-crypto-content{
+    background-image: url(./images/IMAGE.png);
+    background-size:contain;
+    display: flex;
+    justify-content: space-around;
+    color: #000000;
+    padding-left: 30px;
+    
+}
+.crypto-title{
+    font-size: 43px;
+    font-weight: 400;
+    line-height: 54.39px;
+    width: 525px;
+    letter-spacing: 1.22px;
+    padding-top: 71px;
+   
+}
+
+.crypto-text{
+    width:526px;
+    margin-top: 29px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.buy-button{
+    width: 201px;
+    height: 58px;
+    background: #000000;
+    border-radius: 0px;
+    color: #FFFFFF;
+
+}
+
+
+.footer-crypto_text{
+    margin-top: 192px;
+    color: rgba(0, 0, 0, 0.56);
+}
